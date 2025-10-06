@@ -15,7 +15,7 @@ Designed for data practitioners and non-technical users to quickly go from raw C
 
 ## Quick start (test locally)
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/hashmi102/Data-cleaning-quickml.git
 cd <repo-name>
 python -m venv venv
 # activate venv (Windows)
