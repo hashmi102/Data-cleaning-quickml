@@ -3,7 +3,7 @@
 Interactive Streamlit app for cleaning tabular data, performing compact exploratory analysis, and training simple ML models (Linear, Ridge, Lasso, Logistic, Decision Trees).  
 Designed for data practitioners and non-technical users to quickly go from raw CSV → cleaned dataset → model evaluation.
 
-![image alt](https://github.com/hashmi102/YouTube-Chatbot-RAG/blob/main/demo.jpg?raw=true)
+![image alt](https://github.com/hashmi102/Data-cleaning-quickml/blob/main/demo.jpg?raw=true)
 
 ## Features
 - Upload CSV and preview first 200 rows.
