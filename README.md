@@ -12,7 +12,7 @@ Designed for data practitioners and non-technical users to quickly go from raw C
 - Categorical encoding (Label, One-Hot).
 - Numeric scaling (Standard, MinMax).
 - Compact EDA: small histograms, bar charts, correlation heatmap.
-- Train/test split, choose model and hyperparameters, view metrics, small plots.
+- Train/test split, choose model and hyperparameters, view metrics, and small plots.
 - Download cleaned dataset and test predictions as CSV.
 
 ## Quick start (test locally)
